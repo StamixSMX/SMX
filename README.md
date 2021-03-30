@@ -1,0 +1,2 @@
+# SMX
+Game tokens
